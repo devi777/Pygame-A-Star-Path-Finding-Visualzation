@@ -1,2 +1,3 @@
 # Pygame-A-Star-Path-Finding-Visualzation
-Found this algo when studying the greedies, and made it into a good looking pygame exe. Hope you like it!
+
+Simple words: Implemented the algo with pygame, made a decent main page, added soundtrack from my fav mobile game.  
